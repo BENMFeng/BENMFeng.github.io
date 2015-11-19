@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Atom2Bit Blog]]></title>
   <link href="http://benmfeng.github.io/atom.xml" rel="self"/>
   <link href="http://benmfeng.github.io/"/>
   <updated>2015-11-19T00:21:23+08:00</updated>
   <id>http://benmfeng.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[BENM]]></name>
     
   </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
+  <generator uri="http://www.atom2bit.com.cn/">Atom2Bit</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Tywin Lannister Quote]]></title>
+    <title type="html"><![CDATA[物联码]]></title>
     <link href="http://benmfeng.github.io/blog/2013/06/15/tywin-lannister-quote/"/>
     <updated>2013-06-15T09:28:00+08:00</updated>
     <id>http://benmfeng.github.io/blog/2013/06/15/tywin-lannister-quote</id>
-    <content type="html"><![CDATA[<p>A nice quote by Tywin Lannister taken from <em>A Storm of Sword</em> book.</p>
+    <content type="html"><![CDATA[<p>物联码，给亿万产品一个可全天候验证的出生证。</p>
 
-<blockquote><p>The greatest fools are ofttimes more clever then the men who laugh at them.</p><footer><strong>Tywin Lannister</strong> <cite>A Storm of Swords</cite></footer></blockquote>
+<blockquote><p>物联码：加密的产品信息和与之唯一对应的随机物理纹理。</p><footer>物联码的安全物品标识技术，让每一个产品从出生时就具有自己独一无二的物理纹理。</footer></blockquote>
 
 ]]></content>
   </entry>
